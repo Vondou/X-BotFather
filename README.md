@@ -1,3 +1,3 @@
 # X-BotFather
-#Tracks Progress of the highest not child
+#Tracks Progress of the highest bot child
 #Creates a more advanced child to beat the current performance of the highest existing bot children.
